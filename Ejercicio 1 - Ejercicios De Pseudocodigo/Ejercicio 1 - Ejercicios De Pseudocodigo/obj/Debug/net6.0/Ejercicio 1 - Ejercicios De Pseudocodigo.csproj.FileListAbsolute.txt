@@ -1,0 +1,15 @@
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\bin\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.exe
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\bin\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.deps.json
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\bin\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.runtimeconfig.json
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\bin\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.dll
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\bin\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.pdb
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\obj\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.csproj.AssemblyReference.cache
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\obj\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\obj\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.AssemblyInfoInputs.cache
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\obj\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.AssemblyInfo.cs
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\obj\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.csproj.CoreCompileInputs.cache
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\obj\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.dll
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\obj\Debug\net6.0\refint\Ejercicio 1 - Ejercicios De Pseudocodigo.dll
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\obj\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.pdb
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\obj\Debug\net6.0\Ejercicio 1 - Ejercicios De Pseudocodigo.genruntimeconfig.cache
+C:\Users\Federico Albertengo\Documents\Programacion 1\Ejercicio 1 - Ejercicios De Pseudocodigo\Ejercicio 1 - Ejercicios De Pseudocodigo\obj\Debug\net6.0\ref\Ejercicio 1 - Ejercicios De Pseudocodigo.dll
